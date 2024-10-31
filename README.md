@@ -5,7 +5,6 @@ I am currently a student at New Era University studying Information Technology
 New Era University 
 
 Bachelor of Science in Information Technology
-
 2023-Present
 
 <h2>Certifications</h2>
