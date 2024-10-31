@@ -1,4 +1,10 @@
-<h1>Sophia Francine F. Tan</h1>
-Bachelor of Science in Information Technology
+<h1>Hi! My name is Sophia Francine F. Tan</h1>
+I am currently a student at New Era University studying Information Technology
 
-New Era University
+<h2>Education</h2>
+New Era University 
+Bachelor of Science in Information Technology
+2023-Present
+
+<h2>Certifications</h2>
+SQL and Relational Databases 101
